@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My name is Yogesh",
+      "description": "Hero",
+      "id": 1
+    },
+    {
+      "title": "coding",
+      "description": "web dev series makin g a cool doctors website",
+      "id": 2
+    },
+    {
+      "title": "Film making live!",
+      "description": "Learn the basics of film making we cover .....1.)Cinematography...",
+      "id": 3
+    },
+    
+    {
+      "title": "kalu",
+      "description": "expert super",
+      "id": 4
+    }
+  ]
+}
